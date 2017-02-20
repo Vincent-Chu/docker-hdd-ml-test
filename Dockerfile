@@ -1,4 +1,4 @@
-M alpine:3.3
+FROM alpine:3.3
 #MAINTAINER Advantech
 
 RUN apk update \
